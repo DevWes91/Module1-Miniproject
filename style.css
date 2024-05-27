@@ -1,0 +1,53 @@
+* {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+    background-color: #9CCCB7;
+}
+
+a {
+    color: #ffffff;
+    font-size: 30px;
+    padding-inline: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+h3 {
+    color: #0E5B3B;
+}
+
+p{
+    padding-right: 5px;
+}
+.navigation {
+    height: 30px;
+    width: 100%;
+    background-color: #2AAC76;
+    padding: 30px;
+    position: fixed;
+    text-align: right;
+}
+
+#name {
+    font-size: 50px;
+}
+
+#about-me {
+    padding-top: 200px;
+    text-align: center;
+}
+
+#contact-me {
+    text-align: center;
+}
+
+#footer {
+    height: 30px;
+    width: 100%;
+    background-color: #2aac76;
+    margin-top: 20px;
+    position: relative;
+    text-align: center;
+}
